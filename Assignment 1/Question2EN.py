@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Mar  3 17:26:46 2025
 
-@author: Haktan Ö
-"""
 
 #%%
 
